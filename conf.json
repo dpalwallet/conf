@@ -2,22 +2,10 @@
   "stage": "beta",
   "api": {
     "beta": {
-      "balance": [
-        "https://szqnjxg4oc.execute-api.us-east-2.amazonaws.com/beta",
-        "https://semb6p45th.execute-api.us-east-2.amazonaws.com/beta"
-      ],
-      "tx": [
-        "https://uvl1vx9te1.execute-api.us-east-2.amazonaws.com/beta",
-        "https://v4usqb0ds4.execute-api.us-east-2.amazonaws.com/beta"
-      ],
-      "utxo": [
-        "https://t35ivvjabh.execute-api.us-east-2.amazonaws.com/beta",
-        "https://oms0ep6hlj.execute-api.us-east-2.amazonaws.com/beta"
-      ],
-      "push": [
-        "https://bt9agz3el2.execute-api.us-east-2.amazonaws.com/beta",
-        "https://n2lzg1wank.execute-api.us-east-2.amazonaws.com/beta"
-      ]
+      "balance": ["https://pdkgy31gbl.execute-api.us-east-2.amazonaws.com/beta/api"],
+      "tx": ["https://pdkgy31gbl.execute-api.us-east-2.amazonaws.com/beta/api"],
+      "utxo": ["https://pdkgy31gbl.execute-api.us-east-2.amazonaws.com/beta/api"],
+      "push": ["https://pdkgy31gbl.execute-api.us-east-2.amazonaws.com/beta/api"]
     },
     "prod": {}
   }
