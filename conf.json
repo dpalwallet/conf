@@ -1,41 +1,44 @@
 {
-  "stage": "beta",
-  "api": {
-    "beta": {
-      "balance": [
-        "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
-        "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
-      ],
-      "tx": [
-        "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
-        "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
-      ],
-      "utxo": [
-        "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
-        "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
-      ],
-      "push": [
-        "https://eirut7xdj3.execute-api.eu-central-1.amazonaws.com",
-        "https://2utdh8ipea.execute-api.ap-east-1.amazonaws.com"
-      ]
-    },
-    "prod": {
-      "balance": [
-        "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
-        "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
-      ],
-      "tx": [
-        "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
-        "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
-      ],
-      "utxo": [
-        "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
-        "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
-      ],
-      "push": [
-        "https://eirut7xdj3.execute-api.eu-central-1.amazonaws.com",
-        "https://2utdh8ipea.execute-api.ap-east-1.amazonaws.com"
-      ]
+  "type": "0",
+  "0": {
+    "stage": "beta",
+    "api": {
+      "beta": {
+        "balance": [
+          "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
+          "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "tx": [
+          "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
+          "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "utxo": [
+          "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
+          "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "push": [
+          "https://eirut7xdj3.execute-api.eu-central-1.amazonaws.com",
+          "https://2utdh8ipea.execute-api.ap-east-1.amazonaws.com"
+        ]
+      },
+      "prod": {
+        "balance": [
+          "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
+          "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "tx": [
+          "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
+          "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "utxo": [
+          "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
+          "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "push": [
+          "https://eirut7xdj3.execute-api.eu-central-1.amazonaws.com",
+          "https://2utdh8ipea.execute-api.ap-east-1.amazonaws.com"
+        ]
+      }
     }
   }
 }
