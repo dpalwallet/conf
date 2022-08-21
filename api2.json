@@ -1,0 +1,42 @@
+{
+  "type": "nownodes",
+  "nownodes": {
+    "stage": "beta",
+    "api": {
+      "beta": {
+        "balance": [
+          "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "tx": [
+          "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "utxo": [
+          "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "push": [
+          "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+        ]
+      }
+    }
+  },
+  "blockcypher": {
+    "stage": "beta",
+    "checkUtxo": true,
+    "api": {
+      "beta": {
+        "balance": [
+          "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "tx": [
+          "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "utxo": [
+          "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "push": [
+          "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+        ]
+      }
+    }
+  }
+}
