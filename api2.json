@@ -1,5 +1,5 @@
 {
-  "type": "blockcypher",
+  "type": "nownodes",
   "nownodes": {
     "stage": "beta",
     "api": {
@@ -35,6 +35,9 @@
         ],
         "push": [
           "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "spent": [
+          "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
         ]
       }
     }
