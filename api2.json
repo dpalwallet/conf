@@ -1,5 +1,5 @@
 {
-  "type": "blockcypher",
+  "type": "nownodes",
   "nownodes": {
     "stage": "beta",
     "api": {
