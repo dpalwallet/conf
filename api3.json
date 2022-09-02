@@ -1,1 +1,68 @@
-
+{
+    "type": "nownodes_v2",
+    "nownodes": {
+        "stage": "beta",
+        "api": {
+            "beta": {
+                "balance": [
+                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "tx": [
+                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "utxo": [
+                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "push": [
+                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                ]
+            }
+        }
+    },
+    "blockcypher": {
+        "stage": "beta",
+        "checkUtxo": true,
+        "api": {
+            "beta": {
+                "balance": [
+                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "tx": [
+                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "utxo": [
+                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "spent": [
+                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "push": [
+                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                ]
+            }
+        }
+    },
+    "nownodes_v2": {
+        "stage": "beta",
+        "checkUtxo": false,
+        "api": {
+            "beta": {
+                "balance": [
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "tx": [
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "utxo": [
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "spent": [
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                ],
+                "push": [
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                ]
+            }
+        }
+    }
+}
