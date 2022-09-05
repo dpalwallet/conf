@@ -44,7 +44,7 @@
     },
     "nownodes_v2": {
         "stage": "beta",
-        "checkUtxo": false,
+        "checkUtxo": true,
         "api": {
             "beta": {
                 "balance": [
