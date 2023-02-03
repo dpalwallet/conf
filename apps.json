@@ -2,10 +2,10 @@
     "apps": [
       {
         "url": "https://dpalwallet.github.io/",
-        "title": "DogeGas",
-        "tag": "DEFI",
+        "title": "DPal Wallet",
+        "tag": "Wallet",
         "icon": "https://dpalwallet.github.io/static/logo.012e2901.012e2901.png",
-        "description": "doge coin apps"
+        "description": "dogecoin wallet"
       }
     ]
   }
