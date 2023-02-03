@@ -5,7 +5,8 @@
         "title": "DPal Wallet",
         "tag": "Wallet",
         "icon": "https://dpalwallet.github.io/static/logo.012e2901.012e2901.png",
-        "description": "dogecoin wallet"
+        "description": "dogecoin wallet",
+        "color": "#f5bd40"
       }
     ]
   }
