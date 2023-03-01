@@ -1,7 +1,7 @@
 {
   "url": "https://trpbvcup7g.execute-api.ap-east-1.amazonaws.com/prod/api",
   "enable": false,
-  "showWeblink": false,
+  "showWeblink": true,
   "whiteList": [
     "DRGssUYww69oKMJHeXBJZjB46cCkEhwxia",
     "DGvH8UF5Up48LwEES3tzAA5TEKcuDfnURj",
