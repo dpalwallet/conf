@@ -19,7 +19,7 @@
             }
         }
     },
-    "blockcypher": {
+    "nownodes_v3": {
         "stage": "beta",
         "checkUtxo": true,
         "api": {
