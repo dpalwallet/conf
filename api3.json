@@ -5,16 +5,16 @@
         "api": {
             "beta": {
                 "balance": [
-                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
                 ],
                 "tx": [
-                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
                 ],
                 "utxo": [
-                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
                 ],
                 "push": [
-                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
+                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
                 ]
             }
         }
