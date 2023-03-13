@@ -8,5 +8,8 @@
         "description": "dogecoin wallet",
         "color": "#f5bd40"
       }
-    ]
+    ],
+    inscriptions:{
+        "enable": false
+    }
   }
