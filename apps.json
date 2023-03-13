@@ -10,6 +10,7 @@
     }
   ],
   "inscriptions": {
-    "enable": true
+    "enable": true,
+    "url": "https://doginals.com/output/"
   }
 }
