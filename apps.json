@@ -11,6 +11,6 @@
   ],
   "inscriptions": {
     "enable": true,
-    "url": "https://doginals.com/output/"
+    "display_url": "https://doginals.com/output/"
   }
 }
