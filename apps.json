@@ -10,6 +10,6 @@
     }
   ],
   "inscriptions": {
-    "enable": false
+    "enable": true
   }
 }
