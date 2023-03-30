@@ -1,6 +1,6 @@
 {
   "url": "https://r2y2c9at37.execute-api.us-east-2.amazonaws.com/prod/api",
-  "enable": false,
+  "enable": true,
   "showWeblink": true,
   "whiteList": [
     "DRGssUYww69oKMJHeXBJZjB46cCkEhwxia",
