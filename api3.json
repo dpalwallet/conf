@@ -49,23 +49,28 @@
             "beta": {
                 "balance": [
                     "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com",
-                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com",
+                    "https://9nyklr5w6f.execute-api.ap-northeast-1.amazonaws.com"
                 ],
                 "tx": [
                     "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com",
-                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com",
+                    "https://9nyklr5w6f.execute-api.ap-northeast-1.amazonaws.com"
                 ],
                 "utxo": [
                     "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com",
-                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com",
+                    "https://9nyklr5w6f.execute-api.ap-northeast-1.amazonaws.com"
                 ],
                 "spent": [
                     "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com",
-                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com",
+                    "https://9nyklr5w6f.execute-api.ap-northeast-1.amazonaws.com"
                 ],
                 "push": [
                     "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com",
-                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com"
+                    "https://nzhz86d1q6.execute-api.ap-east-1.amazonaws.com",
+                    "https://9nyklr5w6f.execute-api.ap-northeast-1.amazonaws.com"
                 ]
             }
         }
