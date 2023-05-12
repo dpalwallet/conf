@@ -12,7 +12,7 @@
   "inscriptions": {
     "enable": true,
     "indexer": false,
-    "maxMint": 5,
+    "maxMint": 1000,
     "display_url": "https://dogecoin.earlyordies.com/output/"
   }
 }
