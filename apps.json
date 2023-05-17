@@ -13,7 +13,7 @@
     "enable": true,
     "indexer": true,
     "maxMint": 200,
-    "mintfee": 0.01,
+    "mintfee": 1,
     "display_url": "https://dogecoin.earlyordies.com/output/"
   }
 }
