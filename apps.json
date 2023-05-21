@@ -14,6 +14,10 @@
     "indexer": true,
     "maxMint": 150,
     "mintfee": 4.2,
-    "display_url": "https://dogecoin.earlyordies.com/output/"
+    "display_url": "https://dogecoin.earlyordies.com/output/",
+    "transfer": false,
+    "stateurl": [
+      "https://py7xjcgpe9.execute-api.ap-east-1.amazonaws.com/beta/api/"
+    ]
   }
 }
