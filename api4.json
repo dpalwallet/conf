@@ -48,23 +48,23 @@
         "api": {
             "beta": {
                 "balance": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com/beta",
+                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
                     "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
                 ],
                 "tx": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com/beta",
+                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
                     "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
                 ],
                 "utxo": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com/beta",
+                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
                     "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
                 ],
                 "spent": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com/beta",
+                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
                     "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
                 ],
                 "push": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com/beta",
+                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
                     "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
                 ]
             }
