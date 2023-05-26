@@ -12,8 +12,8 @@
   "inscriptions": {
     "enable": true,
     "indexer": true,
-    "maxMint": 150,
-    "mintfee": 4.2,
+    "maxMint": 200,
+    "mintfee": 0.69,
     "display_url": "https://dogecoin.earlyordies.com/output/",
     "transfer": false,
     "stateurl": [
