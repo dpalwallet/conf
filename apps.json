@@ -17,6 +17,7 @@
     "display_url": "https://dogecoin.earlyordies.com/output/",
     "transfer": false,
     "openTransfer": true,
+    "transferFee": 1,
     "stateurl": [
       "https://py7xjcgpe9.execute-api.ap-east-1.amazonaws.com/beta/api/"
     ]
