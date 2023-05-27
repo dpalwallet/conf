@@ -16,6 +16,7 @@
     "mintfee": 0.69,
     "display_url": "https://dogecoin.earlyordies.com/output/",
     "transfer": false,
+    "openTransfer": true,
     "stateurl": [
       "https://py7xjcgpe9.execute-api.ap-east-1.amazonaws.com/beta/api/"
     ]
