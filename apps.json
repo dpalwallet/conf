@@ -18,6 +18,7 @@
     "transfer": false,
     "openTransfer": true,
     "transferFee": 1,
+    "maxSend": 200,
     "stateurl": [
       "https://py7xjcgpe9.execute-api.ap-east-1.amazonaws.com/beta/api/"
     ]
