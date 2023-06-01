@@ -16,7 +16,7 @@
     "mintfee": 0.69,
     "display_url": "https://dogecoin.earlyordies.com/output/",
     "transfer": false,
-    "openTransfer": false,
+    "openTransfer": true,
     "transferFee": 1,
     "maxSend": 200,
     "stateurl": [
