@@ -10,13 +10,13 @@
     }
   ],
   "inscriptions": {
-    "enable": false,
+    "enable": true,
     "indexer": true,
-    "maxMint": 500,
+    "maxMint": 300,
     "mintfee": 0.1,
     "display_url": "https://dogecoin.earlyordies.com/output/",
     "transfer": false,
-    "openTransfer": false,
+    "openTransfer": true,
     "transferFee": 1,
     "maxSend": 300,
     "stateurl": [
