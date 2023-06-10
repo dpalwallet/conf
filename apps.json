@@ -10,7 +10,7 @@
     }
   ],
   "inscriptions": {
-    "enable": false,
+    "enable": true,
     "indexer": true,
     "maxMint": 300,
     "mintfee": 0.1,
