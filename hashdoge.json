@@ -2,18 +2,5 @@
   "url": "https://r2y2c9at37.execute-api.us-east-2.amazonaws.com/prod/api",
   "enable": false,
   "showWeblink": true,
-  "whiteList": [
-    "DRGssUYww69oKMJHeXBJZjB46cCkEhwxia",
-    "DGvH8UF5Up48LwEES3tzAA5TEKcuDfnURj",
-    "DU3X97PiBbfABhQCzhtHNyQvEkrKmBzrDN",
-    "D9jK4Sv4364W9yEKae3fmMnxQqQa4WF4ZG",
-    "D9ij3DbUtqUFdQ81JQpyhuohTBLXoN3TvH",
-    "DKr5KgqaRHgKQ4RMH4w5wQt2VjVAdFrBNm",
-    "DQMn15ywXYeXxyuVWTcHczMYvTqxKmmwWK",
-    "DN3jUZHYfn2kDnBwmQR1DzV9xBAvcN7w8e",
-    "D8ryw7onuU8pQeSfHtbFdGbj1hFeNDFCFC",
-    "DBE6NXvoAgiroGYc4szdwY8y3FJVvgSAbK",
-    "DMY68dgAuXcqrgrYFDqozVP7CPAC11RxpL",
-    "DEGzHPRaiFMhEip819w29iR6tTG8HajvAo"
-  ]
+  "whiteList": []
 }
