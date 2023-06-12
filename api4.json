@@ -1,73 +1,55 @@
 {
-    "type": "nownodes_v2",
-    "nownodes": {
-        "stage": "beta",
-        "api": {
-            "beta": {
-                "balance": [
-                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
-                ],
-                "tx": [
-                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
-                ],
-                "utxo": [
-                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
-                ],
-                "push": [
-                    "https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"
-                ]
-            }
-        }
-    },
-    "nownodes_v3": {
-        "stage": "beta",
-        "checkUtxo": true,
-        "api": {
-            "beta": {
-                "balance": [
-                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "tx": [
-                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "utxo": [
-                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "spent": [
-                    "https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "push": [
-                    "https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"
-                ]
-            }
-        }
-    },
-    "nownodes_v2": {
-        "stage": "beta",
-        "checkUtxo": true,
-        "api": {
-            "beta": {
-                "balance": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
-                    "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "tx": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
-                    "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "utxo": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
-                    "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "spent": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
-                    "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
-                ],
-                "push": [
-                    "https://ox721sn29g.execute-api.ap-northeast-1.amazonaws.com",
-                    "https://hncn45ns7k.execute-api.ap-east-1.amazonaws.com"
-                ]
-            }
-        }
+  "type": "nownodes_v2",
+  "nownodes": {
+    "stage": "beta",
+    "api": {
+      "beta": {
+        "balance": ["https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"],
+        "tx": ["https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"],
+        "utxo": ["https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"],
+        "push": ["https://ihhdsupby1.execute-api.us-east-2.amazonaws.com"]
+      }
     }
+  },
+  "nownodes_v3": {
+    "stage": "beta",
+    "checkUtxo": true,
+    "api": {
+      "beta": {
+        "balance": ["https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"],
+        "tx": ["https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"],
+        "utxo": ["https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"],
+        "spent": ["https://rt9t73cnul.execute-api.ap-east-1.amazonaws.com"],
+        "push": ["https://udo4z2jxuf.execute-api.ap-east-1.amazonaws.com"]
+      }
+    }
+  },
+  "nownodes_v2": {
+    "stage": "beta",
+    "checkUtxo": true,
+    "api": {
+      "beta": {
+        "balance": [
+          "https://5utvfkcqv1.execute-api.ap-east-1.amazonaws.com",
+          "https://snw4pxsac3.execute-api.ap-northeast-1.amazonaws.com"
+        ],
+        "tx": [
+          "https://fnvmjlhe12.execute-api.ap-northeast-1.amazonaws.com",
+          "https://ibwqmrdoej.execute-api.ap-east-1.amazonaws.com"
+        ],
+        "utxo": [
+          "https://5utvfkcqv1.execute-api.ap-east-1.amazonaws.com",
+          "https://snw4pxsac3.execute-api.ap-northeast-1.amazonaws.com"
+        ],
+        "spent": [
+          "https://5utvfkcqv1.execute-api.ap-east-1.amazonaws.com",
+          "https://snw4pxsac3.execute-api.ap-northeast-1.amazonaws.com"
+        ],
+        "push": [
+          "https://dy54qs2us4.execute-api.ap-east-1.amazonaws.com",
+          "https://cgj2ic1m6c.execute-api.ap-northeast-1.amazonaws.com"
+        ]
+      }
+    }
+  }
 }
