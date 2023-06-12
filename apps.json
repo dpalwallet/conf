@@ -14,7 +14,7 @@
     "indexer": true,
     "maxMint": 300,
     "mintfee": 0.1,
-    "display_url": "https://dogecoin.earlyordies.com/output/",
+    "display_url": "https://wonky-ord.dogeord.io/output/",
     "transfer": false,
     "openTransfer": true,
     "transferFee": 1,
