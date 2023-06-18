@@ -16,6 +16,8 @@
     "mintfee": 0.1,
     "display_url": "https://wonky-ord.dogeord.io/output/",
     "transfer": false,
+    "mintfaster": true,
+    "mintfasterfee": 1,
     "openTransfer": true,
     "transferFee": 1,
     "maxSend": 300,
