@@ -40,7 +40,7 @@
       }
     },
     "nft": {
-      "enable": false,
+      "enable": true,
       "mintfee": 1
     }
   }
