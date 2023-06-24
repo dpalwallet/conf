@@ -41,7 +41,7 @@
     },
     "nft": {
       "enable": true,
-      "mintfee": 0
+      "mintfee": 0.42
     }
   }
 }
