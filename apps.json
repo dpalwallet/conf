@@ -38,6 +38,10 @@
         "enable": true,
         "url": "https://d20-api2.dogeord.io/balances/"
       }
+    },
+    "nft": {
+      "enable": false,
+      "mintfee": 1
     }
   }
 }
