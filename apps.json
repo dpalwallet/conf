@@ -41,7 +41,8 @@
       "lazo": {
         "enable": true,
         "url": []
-      },
+      }
+    },
     "nft": {
       "enable": false,
       "mintfee": 0
