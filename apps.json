@@ -37,8 +37,11 @@
       "labs": {
         "enable": true,
         "url": "https://d20-api2.dogeord.io/balances/"
-      }
-    },
+      },
+      "lazo": {
+        "enable": true,
+        "url": []
+      },
     "nft": {
       "enable": false,
       "mintfee": 0
