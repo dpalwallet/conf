@@ -43,6 +43,7 @@
         "url": []
       }
     },
+    "indexer_api": "https://mdokqc3lh8.execute-api.us-east-2.amazonaws.com/",
     "nft": {
       "enable": false,
       "mintfee": 0
