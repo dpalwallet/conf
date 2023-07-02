@@ -21,7 +21,7 @@
     "enable": true,
     "indexer": true,
     "maxMint": 300,
-    "mintfee": 0.1,
+    "mintfee": 1,
     "display_url": "https://wonky-ord.dogeord.io/output/",
     "transfer": false,
     "mintfaster": true,
