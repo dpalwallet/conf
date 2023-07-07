@@ -9,6 +9,14 @@
       "color": "#1a78f7"
     },
     {
+      "url": "https://ordifind.com",
+      "title": "ordifind",
+      "tag": "Indexer",
+      "icon": "https://dpalwallet.github.io/static/logo.012e2901.012e2901.png",
+      "description": "drc20 indexer",
+      "color": "#f5bd40"
+    }
+    {
       "url": "https://dpalwallet.github.io/",
       "title": "DPal Wallet",
       "tag": "Wallet",
