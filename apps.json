@@ -55,6 +55,7 @@
     "nft": {
       "enable": false,
       "mintfee": 0
-    }
+    },
+    "logobaseuri": "https://github.com/dpalwallet/logoasserts/blob/main/asserts/"
   }
 }
