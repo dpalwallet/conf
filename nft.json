@@ -2,9 +2,9 @@
   "enable": false,
   "mintfee": 0,
   "txs": {
-    "txid1": {
-      "logo": "",
-      "baseuri": ""
+    "0f2c14b8193e983ea8265f24133ce39ea5329eba5c6a342a840f7dc63fa91c86": {
+      "logo": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/comasserts/dpal.png",
+      "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com"
     },
     "txid2": {
       "logo": "",
