@@ -1,14 +1,5 @@
 {
   "enable": false,
   "mintfee": 0,
-  "txs": {
-    "tkid1": {
-      "logo": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/comasserts/dpal.png",
-      "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com",
-    },
-    "txid2": {
-      "logo": "",
-      "baseuri": ""
-    }
-  }
+  "txs": []
 }
