@@ -1,5 +1,14 @@
 {
   "enable": false,
   "mintfee": 0,
-  "txs": []
+  "txs": {
+    "txid1": {
+      "logo": "",
+      "baseuri": ""
+    },
+    "txid2": {
+      "logo": "",
+      "baseuri": ""
+    }
+  }
 }
