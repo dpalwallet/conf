@@ -1,6 +1,10 @@
 {
   "enable": false,
   "mintfee": 0,
+  "apiurl": {
+    "queryAdrCollections": "https://oxw4a7be1c.execute-api.ap-east-1.amazonaws.com/beta/api",
+    "queryAdrTokensByHash": "https://ujut4cr0vc.execute-api.ap-east-1.amazonaws.com/beta/api"
+  },
   "txs": {
     "0f2c14b8193e983ea8265f24133ce39ea5329eba5c6a342a840f7dc63fa91c86": {
       "logo": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/dogim.png",
