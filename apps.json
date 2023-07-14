@@ -53,7 +53,7 @@
     },
     "indexer_api": "https://mdokqc3lh8.execute-api.us-east-2.amazonaws.com/",
     "nft": {
-      "enable": true,
+      "enable": false,
       "mintfee": 0
     },
     "logobaseuri": "https://github.com/dpalwallet/logoasserts/blob/main/asserts/"
