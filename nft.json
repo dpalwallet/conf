@@ -8,16 +8,19 @@
   "txs": {
     "0f2c14b8193e983ea8265f24133ce39ea5329eba5c6a342a840f7dc63fa91c86": {
       "logo": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/dogim.png",
-      "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com"
+      "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com",
+      "valid": "Y"
     },
     "5e046f9fdd10385c663326f612aaa55ff481147265b7382b010506a07beb33a2": {
       "logo": "https://pbs.twimg.com/profile_images/1676300451438886912/q6eaJstB_400x400.jpg",
-      "baseuri": ""
+      "baseuri": "",
+      "valid": "Y"
     },
     "1ba28f9aeebb6831fb4f2ecc8484acdcce96c10d12ee203ac1b5fbe769c6dfff": {
       "logo": "https://dpalcollections.s3.us-east-2.amazonaws.com/1ba28f9aeebb6831fb4f2ecc8484acdcce96c10d12ee203ac1b5fbe769c6dfff/1118.png",
       "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com",
-      "mintfee": 10
+      "mintfee": 10,
+      "valid": "Y"
     },
     "d93d06f507e60595e4810650214f017ca895e642944b81b06294be7e4026caba": {
       "logo": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/owls.png",
