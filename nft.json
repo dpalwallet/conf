@@ -30,6 +30,11 @@
     "978f53baf2db654a5ea02a730c0a805f3a061df07ac44aa71f905a8c76face88": {
       "logo": "https://dpalcollections.s3.us-east-2.amazonaws.com/978f53baf2db654a5ea02a730c0a805f3a061df07ac44aa71f905a8c76face88/1.png",
       "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com",
+      "valid": 0
+    },
+    "72725120f2fa1b5b2986e09f24cdb581a4a364b15d330fccdf88383d7fc099cc": {
+      "logo": "https://dpalcollections.s3.us-east-2.amazonaws.com/72725120f2fa1b5b2986e09f24cdb581a4a364b15d330fccdf88383d7fc099cc/224.png",
+      "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com",
       "valid": 1
     }
   }
