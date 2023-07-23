@@ -38,9 +38,9 @@
       "valid": 1
     },
     "18fadad461584f70732e1c9ac02182813998abeecce29dcad10355d650f7bc51": {
-      "logo": "https://dpalcollections.s3.us-east-2.amazonaws.com/18fadad461584f70732e1c9ac02182813998abeecce29dcad10355d650f7bc51/15.png",
+      "logo": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/idog.png",
       "baseuri": "https://dpalcollections.s3.us-east-2.amazonaws.com",
-      "valid": 1
+      "valid": 0
     }
   }
 }
