@@ -35,7 +35,7 @@
     "mintfaster": true,
     "mintfasterfee": 0,
     "openTransfer": true,
-    "transferFee": 1,
+    "transferFee": 0,
     "maxSend": 300,
     "stateurl": [
       "https://py7xjcgpe9.execute-api.ap-east-1.amazonaws.com/beta/api/"
