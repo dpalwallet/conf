@@ -1,6 +1,14 @@
 {
   "apps": [
     {
+      "url": "https://dogex.me",
+      "title": "Dogex",
+      "tag": "dogex.me",
+      "icon": "",
+      "description": "drc721 indexer",
+      "color": "#1a78f7"
+    },
+    {
       "url": "https://cryptogas.shop/dogecoin?ref=41150045",
       "title": "Cryptogas",
       "tag": "gas shop",
