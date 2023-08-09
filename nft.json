@@ -1,5 +1,5 @@
 {
-  "enable": false,
+  "enable": true,
   "mintfee": 1,
   "apiurl": {
     "queryAdrCollections": "https://oxw4a7be1c.execute-api.ap-east-1.amazonaws.com/beta/api",
