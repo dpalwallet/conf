@@ -34,7 +34,7 @@
     }
   ],
   "inscriptions": {
-    "enable": false,
+    "enable": true,
     "indexer": true,
     "maxMint": 500,
     "mintfee": 0,
