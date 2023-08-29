@@ -1,0 +1,18 @@
+{
+    "pools": [
+        {
+            "poolid": "01",
+            "tokenA": "doge",
+            "tokenB": "dogim",
+            "pooladdress": "",
+            "status": "0"
+        },
+        {
+            "poolid": "01",
+            "tokenA": "doge",
+            "tokenB": "fwib",
+            "pooladdress": "",
+            "status": "1"
+        }
+    ]
+}
