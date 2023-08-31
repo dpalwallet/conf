@@ -11,12 +11,19 @@
         {
             "poolid": "02",
             "tokenA": "doge",
-            "tokenB": "fwib",
+            "tokenB": "韭菜币",
             "pooladdress": "",
             "status": "1"
         },
         {
             "poolid": "03",
+            "tokenA": "doge",
+            "tokenB": "mzyd",
+            "pooladdress": "",
+            "status": "1"
+        },
+        {
+            "poolid": "04",
             "tokenA": "doge",
             "tokenB": "dpal",
             "pooladdress": "",
