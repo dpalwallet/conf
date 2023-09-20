@@ -28,6 +28,20 @@
             "tokenB": "dpal",
             "pooladdress": "",
             "status": "1"
+        },
+        {
+            "poolid": "05",
+            "tokenA": "doge",
+            "tokenB": "多读书",
+            "pooladdress": "",
+            "status": "1"
+        },
+        {
+            "poolid": "06",
+            "tokenA": "doge",
+            "tokenB": "小人先做人，君子先做事",
+            "pooladdress": "",
+            "status": "1"
         }
     ]
 }
