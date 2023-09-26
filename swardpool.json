@@ -28,6 +28,13 @@
             "tokenB": "dpal",
             "pooladdress": "",
             "status": "1"
+        },
+        {
+            "poolid": "05",
+            "tokenA": "doge",
+            "tokenB": "黑名单,熊猫",
+            "pooladdress": "",
+            "status": "1"
         }
     ]
 }
