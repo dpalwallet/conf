@@ -46,7 +46,7 @@
     "transferFee": 0,
     "maxSend": 300,
     "stateurl": [
-      "https://py7xjcgpe9.execute-api.ap-east-1.amazonaws.com/beta/api/"
+      ""
     ],
     "thirdindexer": {
       "type": "labs",
@@ -59,7 +59,7 @@
         "url": []
       }
     },
-    "indexer_api": "https://mdokqc3lh8.execute-api.us-east-2.amazonaws.com/",
+    "indexer_api": "",
     "nft": {
       "enable": false,
       "mintfee": 0
