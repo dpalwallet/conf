@@ -9,13 +9,6 @@
             "status": "0"
         },
         {
-            "poolid": "02",
-            "tokenA": "doge",
-            "tokenB": "韭菜币",
-            "pooladdress": "",
-            "status": "1"
-        },
-        {
             "poolid": "03",
             "tokenA": "doge",
             "tokenB": "mzydforfun",
@@ -26,13 +19,6 @@
             "poolid": "04",
             "tokenA": "doge",
             "tokenB": "dpal",
-            "pooladdress": "",
-            "status": "1"
-        },
-        {
-            "poolid": "05",
-            "tokenA": "doge",
-            "tokenB": "黑名单,熊猫",
             "pooladdress": "",
             "status": "1"
         }
