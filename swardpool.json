@@ -1,5 +1,5 @@
 {
-    "notice_message": "Notice We need to perform maintenance to adjust the speed. We apologize for any inconvenience. The maintenance will start at 7:30 Beijing time. Please don't send transactions to the contract address during this time.我们需要进行维护以调整速度。对于给您带来的不便，我们深感抱歉。维护将于北京时间7:30开始。请在此期间不要向合同地址发送交易。",
+    "notice_message": "",
     "pools": [
         {
             "poolid": "01",
