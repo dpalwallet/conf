@@ -1,5 +1,5 @@
 {
-    "notice_message": "We need to perform maintenance on Index, Dogex, and Swap to address the surge in trading. We sincerely apologize for any inconvenience this may cause. Maintenance is expected to begin at 12:00 AM Beijing time and is anticipated to conclude in the early morning of the following day. Please refrain from sending transactions to the contract address during this period.我们需要进行维护索引、dogex、swap，以应对暴涨的交易。对于给您带来的不便，我们深感抱歉。维护将于北京时间24点开始预计到第二天早晨结束。请在此期间不要向合同地址发送交易。",
+    "notice_message": "We need to perform maintenance on Index, Dogex, and Swap to address the surge in trading. We sincerely apologize for any inconvenience this may cause. Maintenance is expected to begin at 24:00 pm Beijing time and is anticipated to conclude in the early morning of the following day. Please refrain from sending transactions to the contract address during this period.我们需要进行维护索引、dogex、swap，以应对暴涨的交易。对于给您带来的不便，我们深感抱歉。维护将于北京时间24点开始预计到第二天早晨结束。请在此期间不要向合同地址发送交易。",
     "pools": [
         {
             "poolid": "01",
