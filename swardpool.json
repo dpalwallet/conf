@@ -1,5 +1,5 @@
 {
-    "notice_message": "",
+    "notice_message": "我认为我们应该暂停一会，订单处理能力不足以处理如此多的排队，未避免恶化，我们会在北京时间3点开始停机维护，直到处理完成当前的订单。抱歉带来麻烦了，我们也很苦恼。正在想办法解决问题。I believe we should take a temporary break because our order processing capacity is insufficient to handle such a large queue. In order to prevent further deterioration, we will initiate maintenance at 3:00 Beijing time and continue until the current orders are processed. We apologize for the inconvenience and are actively working on resolving the issue.",
     "pools": [
         {
             "poolid": "01",
