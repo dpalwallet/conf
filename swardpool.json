@@ -7,20 +7,6 @@
             "tokenB": "dogim",
             "pooladdress": "DB25g9akX91hT4uqCJtBPtUo3NZTJ4oVq5",
             "status": "0"
-        },
-        {
-            "poolid": "03",
-            "tokenA": "doge",
-            "tokenB": "mzydforfun",
-            "pooladdress": "",
-            "status": "1"
-        },
-        {
-            "poolid": "04",
-            "tokenA": "doge",
-            "tokenB": "dpal",
-            "pooladdress": "",
-            "status": "1"
         }
     ]
 }
