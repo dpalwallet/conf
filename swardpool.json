@@ -1,5 +1,5 @@
 {
-    "notice_message": "The system needs maintenance for several hours.Please dont send transaction to contract address its invalid during maintenance time",
+    "notice_message": "",
     "pools": [
         {
             "poolid": "01",
