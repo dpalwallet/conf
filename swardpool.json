@@ -1,5 +1,5 @@
 {
-    "notice_message": "To enhance system stability and complete incremental data indexing, the system and indexes need to undergo maintenance for one day. We appreciate your understanding, and kindly refrain from conducting transactions during this maintenance period.",
+    "notice_message": "",
     "pools": [
         {
             "poolid": "01",
