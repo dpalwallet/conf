@@ -28,7 +28,7 @@
         ],
         "tx": [
           "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
-          "https://rb0sfykhtj.execute-api.ap-east-1.amazonaws.com"
+          "https://api.dogex.me"
         ],
         "utxo": [
           "https://xoqh5jr4ub.execute-api.eu-central-1.amazonaws.com",
