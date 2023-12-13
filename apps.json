@@ -30,7 +30,7 @@
     "transferFee": 0,
     "maxSend": 300,
     "stateurl": [
-      "https://drc20.dogex.me/beta/api/"
+      "https://py7xjcgpe9.execute-api.ap-east-1.amazonaws.com/beta/api/"
     ],
     "indexer_api": "",
     "nft": {
