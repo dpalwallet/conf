@@ -7,7 +7,8 @@
             "tokenA": "doge",
             "tokenB": "dogim",
             "pooladdress": "DB25g9akX91hT4uqCJtBPtUo3NZTJ4oVq5",
-            "status": "0"
+            "status": "0",
+            "notice_message": ""
         }
     ]
 }
