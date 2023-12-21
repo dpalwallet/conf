@@ -1,6 +1,6 @@
 {
     "notice_message": "",
-    "notice_message_2": "",
+    "notice_message_2": "Not all ticks will be indexed. Please don't waste your Doge",
     "pools": [
         {
             "poolid": "01",
