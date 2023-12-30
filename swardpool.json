@@ -1,6 +1,6 @@
 {
     "notice_message": "",
-    "notice_message_2": "Please note that our different indexer,so purchases from other order markets will not be recognized.",
+    "notice_message_2": "Not all the tick will list in our swap,and please note that our different indexer,so purchases from other order markets will not be recognized.",
     "pools": [
         {
             "poolid": "01",
