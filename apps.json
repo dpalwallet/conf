@@ -19,7 +19,7 @@
   ],
   "inscriptions": {
     "enable": true,
-    "indexer": true,
+    "indexer": false,
     "maxMint": 500,
     "mintfee": 1,
     "display_url": "https://wonky-ord.dogeord.io/output/",
