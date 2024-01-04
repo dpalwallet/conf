@@ -14,7 +14,8 @@
             "removeTokenALiqAdr": "DSGKyhddEKJwEcv45XpW9Xa9PbaR9a6AZ4",
             "removeTokenBLiqAdr": "DC9VoQDRKbaCW4y3SuByE3wkdvftcewYLg",
             "minLiqTokenA": 100,
-            "minLiqTokenB": 1000
+            "minLiqTokenB": 1000，
+            "removeAmount": 1.42
         }
     ]
 }
