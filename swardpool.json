@@ -1,5 +1,5 @@
 {
-    "notice_message": "",
+    "notice_message": "Upgrade to new system thanks for your patience",
     "notice_message_2": "Not all listed and unlist tick will add to our swappool please do your own decision,and please note that our different indexer,so purchases from other order markets will not be recognized.",
     "pools": [
         {
@@ -7,7 +7,7 @@
             "tokenA": "doge",
             "tokenB": "dogim",
             "pooladdress": "DB25g9akX91hT4uqCJtBPtUo3NZTJ4oVq5",
-            "status": "0",
+            "status": "1",
             "notice_message": ""
         }
     ]
