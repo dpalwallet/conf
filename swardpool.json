@@ -1,14 +1,25 @@
 {
     "notice_message": "Pool will stop at block:5,039,332 ,upgrade to new system, we need to reset our pools,thanks for your patience.",
-    "notice_message_2": "Not all listed and unlist tick will add to our swappool please do your own decision,and please note that our different indexer,so purchases from other order markets will not be recognized.",
+    "notice_message_2": "",
     "pools": [
         {
             "poolid": "01",
             "tokenA": "doge",
             "tokenB": "dogim",
-            "pooladdress": "DB25g9akX91hT4uqCJtBPtUo3NZTJ4oVq5",
+            "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
             "status": "1",
-            "notice_message": "Upgrade to new system thanks for your patience,and we need to reset our pools"
+            "notice_message": "",
+            "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
+            "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
+            "addfees": 1,
+            "removeTokenALiqAdr": "DSGKyhddEKJwEcv45XpW9Xa9PbaR9a6AZ4",
+            "removeTokenBLiqAdr": "DC9VoQDRKbaCW4y3SuByE3wkdvftcewYLg",
+            "minLiqTokenA": 20,
+            "minLiqTokenB": 20,
+            "removeAmount": 1.42,
+            "minblock": 60,
+            "liq_avaiable": true,
+            "swap_avaiable": true
         }
     ]
 }
