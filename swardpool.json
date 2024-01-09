@@ -19,7 +19,7 @@
             "removeAmount": 1.42,
             "minblock": 360,
             "liq_avaiable": true,
-            "swap_avaiable": false
+            "swap_avaiable": true
         }
     ]
 }
