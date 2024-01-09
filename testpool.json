@@ -11,7 +11,7 @@
             "notice_message": "",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
-            "addfees": 1,
+            "addfees": 10,
             "removeTokenALiqAdr": "DSGKyhddEKJwEcv45XpW9Xa9PbaR9a6AZ4",
             "removeTokenBLiqAdr": "DC9VoQDRKbaCW4y3SuByE3wkdvftcewYLg",
             "minLiqTokenA": 50000,
