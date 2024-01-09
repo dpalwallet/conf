@@ -1,5 +1,5 @@
 {
-    "notice_message": "Pool will stop at block:5,039,332 ,upgrade to new system, we need to reset our pools,thanks for your patience. And dont send anything to address it will be ginored and contract address will change also",
+    "notice_message": "Pool will stop at block:5,039,332 ,upgrade to new system, we need to reset our pools,thanks for your patience.",
     "notice_message_2": "",
     "pools": [
         {
@@ -18,8 +18,8 @@
             "minLiqTokenB": 20,
             "removeAmount": 1.42,
             "minblock": 60,
-            "liq_avaiable": true,
-            "swap_avaiable": true
+            "liq_avaiable": false,
+            "swap_avaiable": false
         }
     ]
 }
