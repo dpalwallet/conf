@@ -7,7 +7,7 @@
             "tokenA": "doge",
             "tokenB": "dogim",
             "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
-            "status": "1",
+            "status": "0",
             "notice_message": "",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
@@ -18,7 +18,7 @@
             "minLiqTokenB": 100000,
             "removeAmount": 1.42,
             "minblock": 360,
-            "liq_avaiable": false,
+            "liq_avaiable": true,
             "swap_avaiable": false
         }
     ]
