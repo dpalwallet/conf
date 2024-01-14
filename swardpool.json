@@ -1,5 +1,5 @@
 {
-    "notice_message": "",
+    "notice_message": "To ensure a more stable liquidity pool, we will be adjusting the removal fee for liquidity on the 15th of Beijing time, changing it from 0 to 0.005. The model is still in beta testing, and we appreciate your understanding.",
     "notice_message_2": "",
     "pools": [
         {
@@ -8,7 +8,7 @@
             "tokenB": "dogim",
             "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
             "status": "0",
-            "notice_message": "",
+            "notice_message": "To ensure a more stable liquidity pool, we will be adjusting the removal fee for liquidity on the 15th of Beijing time, changing it from 0 to 0.005. The model is still in beta testing, and we appreciate your understanding.",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
             "addfees": 10,
