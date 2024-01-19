@@ -1,5 +1,5 @@
 {
-    "notice_message": "We need to pause the pool and try to adjust the algorithm to ensure the stability of the pool, we are in beta mode, thanks for your understanding",
+    "notice_message": "",
     "notice_message_2": "",
     "pools": [
         {
@@ -7,8 +7,8 @@
             "tokenA": "doge",
             "tokenB": "dogim",
             "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
-            "status": "1",
-            "notice_message": "We need to pause the pool and try to adjust the algorithm to ensure the stability of the pool, we are in beta mode, thanks for your understanding",
+            "status": "0",
+            "notice_message": "",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
             "addfees": 10,
