@@ -18,7 +18,7 @@
             "minLiqTokenB": 100000,
             "removeAmount": 1.42,
             "minblock": 360,
-            "liq_avaiable": false,
+            "liq_avaiable": true,
             "swap_avaiable": true
         }
     ]
