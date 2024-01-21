@@ -1,5 +1,5 @@
 {
-    "notice_message": "",
+    "notice_message": "To increase the difficulty of arbitrage and safeguard the stability of the pool, we have temporarily increased the withdrawal block to 3600 blocks. In the coming days, we will consider adjusting the incentive factors for block rewards to balance the vitality range for arbitrageurs and retail participants. Thank you for your understanding.",
     "notice_message_2": "",
     "pools": [
         {
@@ -8,7 +8,7 @@
             "tokenB": "dogim",
             "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
             "status": "0",
-            "notice_message": "",
+            "notice_message": "To increase the difficulty of arbitrage and safeguard the stability of the pool, we have temporarily increased the withdrawal block to 3600 blocks. In the coming days, we will consider adjusting the incentive factors for block rewards to balance the vitality range for arbitrageurs and retail participants. Thank you for your understanding.",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
             "addfees": 10,
