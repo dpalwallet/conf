@@ -1,5 +1,5 @@
 {
-    "notice_message": "Due to the low frequency of trading, this type of model has been exploited by large-scale arbitrageurs, which is detrimental to the development of the community and individual investors. Therefore, we have decided to temporarily suspend the addition of liquidity after block 5058233. Liquidity added after this block will not be recognized, although the swap functionality will not be stopped. Removal of liquidity can still be done according to the rules (if it does not exceed the balance line after 3600 blocks). We have consistently emphasized that we are currently in a beta testing period, and as such, liquidity injection during this period is a high-risk activity. Please refer to our rules for more information.",
+    "notice_message": "Already notice before please read rules before swap and swap with dogex webapp ui,please swap with web ui, If you manually transfer funds or cause issues through incorrect methods, we cannot assist. Thanks for your understanding.",
     "notice_message_2": "",
     "pools": [
         {
@@ -8,7 +8,7 @@
             "tokenB": "dogim",
             "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
             "status": "0",
-            "notice_message": "Due to the low frequency of trading, this type of model has been exploited by large-scale arbitrageurs, which is detrimental to the development of the community and individual investors. Therefore, we have decided to temporarily suspend the addition of liquidity after block 5058233. Liquidity added after this block will not be recognized, although the swap functionality will not be stopped. Removal of liquidity can still be done according to the rules (if it does not exceed the balance line after 3600 blocks). We have consistently emphasized that we are currently in a beta testing period, and as such, liquidity injection during this period is a high-risk activity. Please refer to our rules for more information.",
+            "notice_message": "Already notice before please read rules before swap and swap with dogex webapp ui,please swap with web ui, If you manually transfer funds or cause issues through incorrect methods, we cannot assist. Thanks for your understanding.",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
             "addfees": 10,
