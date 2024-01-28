@@ -7,7 +7,7 @@
             "tokenA": "doge",
             "tokenB": "dogim",
             "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
-            "status": "1",
+            "status": "0",
             "notice_message": "Please read rules before swap and please swap with web ui, If you manually transfer funds or cause issues through incorrect methods, we cannot assist. Thanks for your understanding.",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
