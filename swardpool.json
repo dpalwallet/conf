@@ -1,5 +1,5 @@
 {
-    "notice_message": "Please read rules before swap and please swap with web ui, If you manually transfer funds or cause issues through incorrect methods, we cannot assist. Thanks for your understanding.",
+    "notice_message": "Due to congestion caused by too high transactions on the chain, we need to investigate the reason why transactions cannot be processed in time and temporarily stop swap. Please read rules before swap and please swap with web ui, If you manually transfer funds or cause issues through incorrect methods, we cannot assist. Thanks for your understanding.",
     "notice_message_2": "",
     "pools": [
         {
@@ -7,8 +7,8 @@
             "tokenA": "doge",
             "tokenB": "dogim",
             "pooladdress": "DNcJxvpXjiGcHNSGxaFhA9gguS3sdxFBwu",
-            "status": "0",
-            "notice_message": "Please read rules before swap and please swap with web ui, If you manually transfer funds or cause issues through incorrect methods, we cannot assist. Thanks for your understanding.",
+            "status": "1",
+            "notice_message": "Due to congestion caused by too high transactions on the chain, we need to investigate the reason why transactions cannot be processed in time and temporarily stop swap. Please read rules before swap and please swap with web ui, If you manually transfer funds or cause issues through incorrect methods, we cannot assist. Thanks for your understanding.",
             "addTokenALiqAdr": "D6Mu1ebuEWJcV3oahV3chcSqcwFUWJV61S",
             "addTokenBLiqAdr": "DHqeD3rvcjJ9UXCT2Rx8ohvUsX6harzBh1",
             "addfees": 10,
