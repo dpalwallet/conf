@@ -30,22 +30,19 @@
     "api": {
       "beta": {
         "balance": [
-          "https://5utvfkcqv1.execute-api.ap-east-1.amazonaws.com",
-          "https://snw4pxsac3.execute-api.ap-northeast-1.amazonaws.com"
+          "https://api.dpalwallet.io"
         ],
         "tx": [
-          "https://api.dogex.me"
+          "https://api.dpalwallet.io"
         ],
         "utxo": [
-          "https://api.dogex.me"
+          "https://api.dpalwallet.io"
         ],
         "spent": [
-          "https://snw4pxsac3.execute-api.ap-northeast-1.amazonaws.com",
-          "https://api.dogex.me"
+          "https://api.dpalwallet.io"
         ],
         "push": [
-          "https://dy54qs2us4.execute-api.ap-east-1.amazonaws.com",
-          "https://cgj2ic1m6c.execute-api.ap-northeast-1.amazonaws.com"
+          "https://api.dpalwallet.io"
         ]
       }
     }
